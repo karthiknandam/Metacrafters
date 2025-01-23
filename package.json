@@ -8,7 +8,7 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": "",
+  "description": "NA",
   "dependencies": {
     "@solana/web3.js": "^1.98.0",
     "solana": "^3.0.0"
